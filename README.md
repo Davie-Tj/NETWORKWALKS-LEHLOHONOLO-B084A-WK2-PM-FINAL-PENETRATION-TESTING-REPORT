@@ -11,7 +11,7 @@ NetworkWalks Week 2 footprinting and Zenmap host discovery report
 
 This repository contains the documentation and evidence for Week 2 of my Cybersecurity Internship. This week focused on Phase 1 (Reconnaissance & Footprinting) and Phase 2 (Scanning & Network Discovery). 
 
-The goal was to gather as much public information as possible about a target domain (`networkwalks.com`) using multiple Kali Linux tools, OSINT platforms, and Google Dorks. Finally, I performed active network scanning on my local virtual lab to discover live hosts.
+The goal was to gather as much public information as possible about a target domain (`networkwalks.com`) using multiple Kali Linux tools, OSINT platforms, Finally, I performed active network scanning on my local virtual lab to discover live hosts.
 
 **⚠️ Disclaimer:** All activities were performed strictly within the authorized scope defined by the Networkwalks Letter of Authorization (LOA) and on my own local virtual lab network. 
 
@@ -23,7 +23,6 @@ The goal was to gather as much public information as possible about a target dom
 | :--- | :--- |
 | **Kali Linux** | Operating system for terminal-based reconnaissance. |
 | **WHOIS, WhatWeb, Nslookup, Curl, Wafw00f, DNSRecon** | The 6 essential Kali tools used for domain profiling. |
-| **Google Hacking Database (GHDB)** | Used to find exposed IoT devices and open directories. |
 | **Maltego** | Used for visual data mining and link analysis. |
 | **theHarvester** | Used to gather public emails and subdomains (OSINT). |
 | **Zenmap (Nmap GUI)** | Scan the local subnet to find live hosts and map topology. |
